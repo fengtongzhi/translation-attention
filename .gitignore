@@ -39,9 +39,6 @@ saved_models/
 weights/
 
 # ─── 数据集（同上，用 DVC 或云存储管理）──────────────────────────────────────────
-data/raw/
-data/processed/
-data/external/
 *.csv
 *.tsv
 *.json
